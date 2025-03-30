@@ -24,6 +24,7 @@ nav{
 .logo{
   font-size: 2em;
   letter-spacing: 2px;
+  cursor: default;
 }
 
 .menu a{
@@ -125,6 +126,10 @@ nav{
 .User div a:hover{
   background: transparent;
   border: 1px solid indianred;
+}
+
+.User p{
+  cursor: default;
 }
 
 .User p a{
