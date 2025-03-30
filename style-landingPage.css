@@ -76,10 +76,12 @@ nav{
 
 .sec-txt span{
   letter-spacing: 5px;
+  cursor: default;
 }
 
 .sec-txt h2{
   font-size: 2em;
+  cursor: default;
 }
 
 .sec-txt a{
